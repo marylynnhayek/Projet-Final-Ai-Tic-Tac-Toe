@@ -1,5 +1,5 @@
 # Projet-Final-Ai-Tic-Tac-Toe
-This repository contains the implementation of the Tic Tac Toe game using the minimax algorithm. 
+This repository contains the implementation of the Tic Tac Toe game using the minimax algorithm and Alpha-Beta pruning. 
 
 What's included in the final submission:
 1. For the code:
